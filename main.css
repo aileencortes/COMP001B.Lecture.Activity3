@@ -13,6 +13,9 @@ aside{
     width: 35%;
     margin-left: 35px;
 }
+img{
+    width: 100px;
+}
 footer{
     clear: left;
     text-align: center;
