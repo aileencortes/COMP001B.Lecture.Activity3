@@ -1,0 +1,19 @@
+nav{
+    float:left;
+    width: 25%;
+}
+
+main{
+    float: left;
+    width: 33%;
+}
+
+aside{
+    float: left;
+    width: 35%;
+    margin-left: 35px;
+}
+footer{
+    clear: left;
+    text-align: center;
+}
